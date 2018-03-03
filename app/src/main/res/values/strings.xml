@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Android Trivia Quiz </string>
+    <string name="reset">RESET</string>
+    <string name="summary">Submit answers</string>
+    <string name="acknowledgement">Select answers below. Only one answer is correct!</string>
+    <string name="g1question">Before selling out to Google, Android co-founder Andy Rubin tried to sell the operating system to?</string>
+    <string name="q1answer1">LG</string>
+    <string name="q1answer2">Samsung</string>
+    <string name="q1answer3">Nokia</string>
+    <string name="q1answer4">Siemens</string>
+
+    <string name="g2question">How much did Google pay to acquire Android? (select multiple)</string>
+    <string name="q2answer1">> $1 million</string>
+    <string name="q2answer2">> $40.000</string>
+    <string name="q2answer3">> $50 million</string>
+    <string name="q2answer4">> $600 million</string>
+
+    <string name="g3question">Andy Rubin, the father of Android, has keen interest in an area different than operating systems. Which one is it?</string>
+    <string name="q3answer1">Biotech</string>
+    <string name="q3answer2">Robots</string>
+    <string name="q3answer3">Smartwatches</string>
+    <string name="q3answer4">Dolls</string>
+
+    <string name="g4question">The first fully 64-bit-compatible version of Android is?</string>
+    <string name="q4answer1">Android 2.3 Gingerbread</string>
+    <string name="q4answer2">Android 4.0 Ice Cream Sandwitch</string>
+    <string name="q4answer3">Android 5.0 Lollipop</string>
+    <string name="q4answer4">Android 6.0 Marshmallow</string>
+
+    <string name="g5question">The first mass-market Android smartphone was?</string>
+    <string name="q5answer1">Motorola Droid</string>
+    <string name="q5answer2">LG Optimus Prime</string>
+    <string name="q5answer3">T-Mobile G1</string>
+    <string name="q5answer4">Sang Galaxy S1</string>
+
+    <string name="g6question">Support for custom keyboards like SwiftKey was enabled in Android version?</string>
+    <string name="q6answer1">Android 1.5 Cupcake</string>
+    <string name="q6answer2">Android 2.1 Eclair</string>
+    <string name="q6answer3">Android 2.3 Gingerbread</string>
+    <string name="q6answer4">Android 3.0 Honeycomb</string>
+
+    <string name="g7question">One of the main reasons why Android devices require more RAM memory is?</string>
+    <string name="q7answer1">Java garbage collector</string>
+    <string name="q7answer2">that people use Android devices differently than iPhones</string>
+    <string name="q7answer3">in order for the camera to work smoothly</string>
+    <string name="q7answer4">to support demanding games graphics</string>
+
+    <string name="g8question">Support for live wallpapers was enabled in Android version?</string>
+    <string name="q8answer1">Android 4.0 Ice Cream Sandwitch</string>
+    <string name="q8answer2">Android 2.1 Eclair</string>
+    <string name="q8answer3">Android 1.5 Cupcake</string>
+    <string name="q8answer4">Android 6.0 Marshmallow</string>
+
+    <string name="g9question">The first Android tablet was?</string>
+    <string name="q9answer1">LG Optimus Pad</string>
+    <string name="q9answer2">HTC Flyer</string>
+    <string name="q9answer3">Motorola Xoom</string>
+    <string name="q9answer4">Samsung Galaxy Tab</string>
+
+    <string name="g10question">Many say Android has ‘true’ multitasking in contrast to other mobile platforms, but in which version was multitasking actually enabled?</string>
+    <string name="q10answer1">Android 1.0 Apple Pie</string>
+    <string name="q10answer2">Android 2.0 Eclair</string>
+    <string name="q10answer3">Android 2.3 Gingerbread</string>
+    <string name="q10answer4">Android 3.0 Honeycomb</string>
+</resources>
