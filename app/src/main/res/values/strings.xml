@@ -2,7 +2,7 @@
     <string name="app_name">Android Trivia Quiz </string>
     <string name="reset">RESET</string>
     <string name="summary">Submit answers</string>
-    <string name="acknowledgement">Select answers below. Only one answer is correct!</string>
+    <string name="acknowledgement">Select answers below. Not only one answer can be correct!</string>
     <string name="g1question">Before selling out to Google, Android co-founder Andy Rubin tried to sell the operating system to?</string>
     <string name="q1answer1">LG</string>
     <string name="q1answer2">Samsung</string>

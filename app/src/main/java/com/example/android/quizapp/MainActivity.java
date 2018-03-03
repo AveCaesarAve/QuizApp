@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void quizSummary(View view) {
         /*
-          Check all selected checkboxes status
+         * Check all selected checkboxes status
          */
         RadioButton q1answer2Checkbox = findViewById(R.id.q1answer2_checkbox);
         boolean q1answer2selected = q1answer2Checkbox.isChecked();
@@ -63,26 +63,22 @@ public class MainActivity extends AppCompatActivity {
 
         if (q1answer2selected) {
             correctAnswers = correctAnswers + 1;
-//            String question1selection = "Correct!";
         }
 
         if (q2answer1selected) {
             if (q2answer2selected) {
                 if (q2answer3selected) {
                     correctAnswers = correctAnswers + 1;
-//                    String question2selection = "Correct!";
                 }
             }
         }
 
         if (q3answer2selected) {
             correctAnswers = correctAnswers + 1;
-//            String question3selection = "Correct!";
         }
 
         if (q4answer3selected) {
             correctAnswers = correctAnswers + 1;
-//            String question4selection = "Correct!";
         }
 
         EditText q5answerTextfield = findViewById(R.id.q5answer_textfield);
@@ -90,42 +86,34 @@ public class MainActivity extends AppCompatActivity {
         if (q5answer_answer.trim().length() > 0) {
             if (q5answer_answer.equals("T-Mobile G1")) {
                 correctAnswers = correctAnswers + 1;
-//            String question5selection = "Correct!";
             }
         }
 
         if (q6answer1selected) {
             correctAnswers = correctAnswers + 1;
-//            String question6selection = "Correct!";
         }
 
         if (q7answer1selected) {
             correctAnswers = correctAnswers + 1;
-//            String question7selection = "Correct!";
         }
 
         if (q8answer2selected) {
             correctAnswers = correctAnswers + 1;
-//            String question8selection = "Correct!";
         }
 
         if (q9answer4selected) {
             correctAnswers = correctAnswers + 1;
-//            String question9selection = "Correct!";
         }
 
         if (q10answer1selected) {
             correctAnswers = correctAnswers + 1;
-//            String question10selection = "Correct!";
         }
 
         Toast.makeText(this, "You've finished the quiz! Correct answers: " + correctAnswers, Toast.LENGTH_LONG).show();
 
-//        if (view.getId() == R.id.summary_button) {
         Button summaryButton;
         summaryButton = findViewById(R.id.summary_button);
         summaryButton.setEnabled(false);
-//        }
     }
 
     /**
